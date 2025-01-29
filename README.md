@@ -11,7 +11,7 @@ Data Analyst with strong engineering background.
 **Additional:** Knowledge of A/B tests  
 # Projects I've made
 ## Finance and Investments
-[Credit Reliability Analysis]([#](https://github.com/s-mudro/portfolio/tree/main/02_research_of_borrowers_reliability))  
+[Credit Reliability Analysis](https://github.com/s-mudro/portfolio/tree/main/02_research_of_borrowers_reliability)  
 [Bank Customer Churn Analysis](https://github.com/s-mudro/portfolio/tree/main/07_customer_churn_research)  
 [Clients Data Protection](https://github.com/s-mudro/portfolio/tree/main/10_clients_data_protection)  
 [Investment Fund Database Research](#) 
