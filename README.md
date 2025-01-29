@@ -34,3 +34,4 @@ Below are my projects categorized by industry:
 [Taxi Orders Prediction](https://github.com/s-mudro/portfolio/tree/main/13_taxi_orders_predictions) 
 [Gold Recovery Optimization](https://github.com/s-mudro/portfolio/tree/main/09_gold_recovery)  
 [Well Location Selection](https://github.com/s-mudro/portfolio/tree/main/08_well_location_selection)  
+
