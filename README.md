@@ -1,5 +1,6 @@
 # About me
-Data Analyst with strong engineering background.
+Data Analyst with an engineering background, experienced in data-driven decision-making, visualization, and predictive modeling. Proficient in Python, SQL, and statistical analysis.
+
 ## Contacts
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />](https://www.linkedin.com/in/melnikov-roman)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30px" />](https://t.me/thomascarlyle)
@@ -10,6 +11,9 @@ Data Analyst with strong engineering background.
 **Visualization:** Matplotlib, Seaborn, Plotly  
 **Additional:** Knowledge of A/B tests  
 # Projects I've made
+🔗 [Project Overview Table](https://github.com/s-mudro/portfolio) – a table with brief descriptions of all projects.
+
+Below are my projects categorized by industry:
 ## Finance and Investments
 [Credit Reliability Analysis](https://github.com/s-mudro/portfolio/tree/main/02_research_of_borrowers_reliability)  
 [Bank Customer Churn Analysis](https://github.com/s-mudro/portfolio/tree/main/07_customer_churn_research)  
