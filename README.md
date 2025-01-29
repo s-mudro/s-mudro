@@ -13,21 +13,20 @@ Data Analyst with strong engineering background.
 ## Finance and Investments
 [Credit Reliability Analysis](#)  
 [Bank Customer Churn Analysis](#)  
-[Protection of Insurance Company Clients' Data](#)  
-[Research on the investment fund database](#)  
+[Clients Data Protection](#)  
+[Investment Fund Database Research](#)  
 ## Internet and Technology
-[Music Preferences in Moscow and St. Petersburg](#)  
+[Music Preferences in Moscow and St. Petersburg](https://github.com/s-mudro/portfolio/tree/main/01_musical_preferences_of_msk_spb)  
 [Real Estate Listings Analysis](#)  
 [Car Price Prediction](#)  
-[Text Analysis Project for Online Bookshop](#)  
+[Text Analysis for Online Bookshop](#)  
 [Game E-Commerce Analysis](#)  
 ## Telecom and Media
-[Customer Churn Prediction and Offer Recommendation for a Telecommunications Operator](#)  
-[Regional Revenue Analysis for a Mobile Operator](#)  
+[Telecom Churn & Promo Recommendation](#)  
+[Mobile Operator Plan Optimization](#)  
 [Tariff Plan Recommendation Model](#)  
 ## Business and Industry
-[Comprehensive CV Project](#)  
-[Taxi Orders Forecasting](#)  
-[Gold Recovery ML Model](#)  
+[Customer Age Estimation for Retail](#)  
+[Taxi Orders Prediction](#) 
+[Gold Recovery Optimization](#)  
 [Well Location Selection](#)  
-
